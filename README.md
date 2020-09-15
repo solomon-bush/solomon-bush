@@ -9,7 +9,10 @@
 - My hobbies include woodworking, aquariums, and playing guitar
 
 ### My Work
-To see some examples: ✔ check out my [``Portfolio Repo``](https://github.com/solomon-bush/portfolio)
+To see some examples: ✔ check out my Sample Projects 
+1. [``React Memory Game``](https://github.com/solomon-bush/react-memory-game)
+2. [``React, Node, JWT Auth API``](https://github.com/solomon-bush/react-node-jwt-auth)
+3. [``React, Node, Mongo Self Checkout``]https://github.com/solomon-bush/react-node-mongo-kiosk)
 
 Alot of my work is private - If you want to take a look at it just send me an email
 
