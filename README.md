@@ -2,7 +2,7 @@
 
 ### About Me
 - I currently am working as a **Team Lead** for a well known *research institute*.
-- I'm proficient in *Node*, *React*, *Mongo*, *MySql*, and general Web App Development
+- I'm currently coding with *Node*, *React*, *Mongo*, *MySql*.
 - I've recently been working on learning *GoLang* in my spare time
 - I currently live my my wife and two dachshunds in Atlanta, but soon we will be moving to SLC ✈
 - I served 6 years active duty in the **U.S. Air Force** (2013-2019)
