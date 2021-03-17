@@ -1,10 +1,11 @@
 **Hi, my name is Solomon and I am a Software Engineer.**
 
 ### About Me
-- I currently am working as a **Team Lead** for a well known *research institute*.
-- I'm currently coding with *Node*, *React*, *Mongo*, *MySql*.
+- Currently I am working at **SoFi** as a **Software Engineer**.
+- I worked as a **Team Lead** for **Georgia Tech Research Institute**.
+- I'm currently coding with *Node*, *React*, *Mongo*, *Java*, and *Python*.
 - I've recently been working on learning *GoLang* in my spare time
-- I currently live my my wife and two dachshunds in Atlanta, but soon we will be moving to SLC ✈
+- I currently live my my wife and two dachshunds in Salt Lake City.
 - I served 6 years active duty in the **U.S. Air Force** (2013-2019)
 - My hobbies include woodworking, aquariums, and playing guitar
 
