@@ -1,7 +1,8 @@
 **Hi, my name is Solomon and I am a Software Engineer.**
 
 ### About Me
-- Currently I am working at **SoFi** as a **Sr Software Engineer**.
+- Currently I am working at **Polytomic** as a **Software Engineer**.
+- I worked at **SoFi** as a **Sr Software Engineer**.
 - I worked as a **Team Lead** for **Georgia Tech Research Institute**.
 - I'm currently coding with *Node*, *React*, *Mongo*, *Java*, and *Python*.
 - I've recently been working on learning *GoLang* in my spare time
