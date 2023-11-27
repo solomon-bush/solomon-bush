@@ -1,7 +1,9 @@
 **Hi, my name is Solomon and I am a Software Engineer.**
 
 ### About Me
-- Currently I am working at **Polytomic** as a **Software Engineer**.
+- Currently CTO of [`Fassport`](https://fassport.co)
+- Currently CEO of [`Log Harvestor`](https://logharvestor.com)
+- Previously worked at **Polytomic** as a **Software Engineer**.
 - I worked at **SoFi** as a **Sr Software Engineer**.
 - I worked as a **Team Lead** for **Georgia Tech Research Institute**.
 - I'm currently coding with *Node*, *React*, *Mongo*, *Java*, and *Python*.
